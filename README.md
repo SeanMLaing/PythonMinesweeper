@@ -1,2 +1,1 @@
-# PythonMinesweeper
-A minesweeper game written in Python3
+A basic minesweeper game made by Sean Laing 2022
